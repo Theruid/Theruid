@@ -3,7 +3,7 @@
 🎉 Welcome to my GitHub profile! I'm a 28-year-old software enthusiast based in Iran, passionate about **AI programming** and its endless possibilities.
 
 ## About Me
-- 💼 **Current Role**: I work at [Systemgroup Co.](https://www.systemgroup.net/), the leading software company in the Middle East.
+- 💼 **Current Role**: Support Manager at [Systemgroup Co.](https://www.systemgroup.net/), the leading software company in the Middle East. I focus on ensuring exceptional customer experiences and optimizing system performance.
 - 💡 **Interests**: Artificial Intelligence, Machine Learning, and creating impactful software solutions.
 - 🌱 **Currently Exploring**: Advanced AI applications and contributing to innovative projects.
 - 📚 **Fun Fact**: I’m deeply inspired by how technology can transform industries and improve lives.
