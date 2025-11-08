@@ -14,8 +14,8 @@ I'm an **AI Developer & Full-Stack Engineer** passionate about using artificial 
   - Advanced RAG (Retrieval-Augmented Generation) systems  
   - n8n workflows integrated with AI models  
   - End-to-end automation and MLOps practices  
-- ⚙️ **Philosophy:** *BMAD — Build More, Achieve Deeply* — blending human creativity with AI efficiency to deliver fast, reliable solutions.
-
+- ⚙️ BMAD: Breakthrough Method for Agile AI-Driven Development — practical, repeatable AI + agile workflows.
+  
 ---
 
 ## 🧠 Tech Stack
