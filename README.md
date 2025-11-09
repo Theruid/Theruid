@@ -30,22 +30,22 @@ I'm an **Full-Stack Engineer** passionate about using artificial intelligence to
 
 ## 💼 Featured AI & Automation Projects
 
-- **AI Chatbot Dashboard**(Public Repo)
+- **AI Chatbot Dashboard** **(Public Repo)**
   Full-featured dashboard for managing and analyzing customer chats, integrating vector databases and semantic search.
     
-- **AI Chatbot Interface (Frontend)**(Private Repo) Deployed at **Club.sepidarsystem.com**
+- **AI Chatbot Interface (Frontend)** **(Private Repo) Deployed at Club.sepidarsystem.com**
   Production-ready chatbot UI serving thousands of users, designed for seamless interaction and real-time AI responses.
   
-- **n8n AI Automation Workflows**(Public Repo)
+- **n8n AI Automation Workflows** **(Public Repo)**
   Workflows for automating FAQ optimization, data enrichment, and text refinement using AI models.  
 
-- **RAG-based Knowledge Systems**(Public Repo)
+- **RAG-based Knowledge Systems** **(Public Repo)**
   Retrieval-augmented generation pipelines built for text understanding and AI-driven insights.  
 
-- **Monitoring & Analytics Tools**(Public Repo)
+- **Monitoring & Analytics Tools** **(Public Repo)**
   AI-assisted monitoring of cloud-native applications, leveraging automation and dashboards to streamline operations.
   
-- **QC Voices of Support with AI**(Private Repo)
+- **QC Voices of Support with AI** **(Private Repo)**
   A Python-based application that fetches support agent voices from UCCX, processes them with a local AI model using custom prompts,
   performs quality control on the recordings, and presents the analyzed results in a dedicated dashboard for actionable insights.
  ---
