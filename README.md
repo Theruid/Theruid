@@ -8,7 +8,6 @@ I'm an **Full-Stack Engineer** passionate about using artificial intelligence to
 ## 🚀 About Me
 
 - 💼 **Experience:** Support Engineer [SystemGroup Co.](https://www.systemgroup.net/)
-  I design and implement cloud-native tools, AI-driven dashboards, and automation systems that serve thousands of users.  
 - 🤖 **Focus:** AI-assisted coding, machine learning, and building full-stack applications that merge automation and intelligence.  
 - 🌱 **Currently Exploring:**  
   - Advanced RAG (Retrieval-Augmented Generation) systems  
