@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Masoud Hosseini
 
 🎉 Welcome to my GitHub!  
-I'm an **AI Developer & Full-Stack Engineer** passionate about using artificial intelligence to create scalable, meaningful, and automated software solutions.  
+I'm an **Full-Stack Engineer** passionate about using artificial intelligence to create scalable, meaningful, and automated software solutions.  
 
 ---
 
