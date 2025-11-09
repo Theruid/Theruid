@@ -28,22 +28,20 @@ I'm an **AI Developer & Full-Stack Engineer** passionate about using artificial 
 
 ---
 
-## 💼 Featured Projects
 
-- **Monitoring Application**  
-  Internal tool for tracking the performance and availability of cloud-native applications across Kubernetes clusters.  
+## 💼 Featured AI & Automation Projects
 
-- **ChatBot (Frontend)**  
-  Production-ready chatbot serving **100,000+ customers**, enabling real-time support and interaction.  
+- **AI Chatbot Dashboard**  
+  Full-featured dashboard for managing and analyzing customer chats, integrating vector databases and semantic search.  
 
-- **Chatbot Dashboard**  
-  Management system with **vector database integration** for chat analysis, note management, and semantic search.  
+- **n8n AI Automation Workflows**  
+  Workflows for automating FAQ optimization, data enrichment, and text refinement using AI models.  
 
-- **Shift Manager Application**  
-  Simplified shift scheduling and coordination for team members.  
+- **RAG-based Knowledge Systems**  
+  Retrieval-augmented generation pipelines built for text understanding and AI-driven insights.  
 
-- **Gamification Puzzle**  
-  Interactive marketing event game with **500+ participants**, combining creativity and engagement.  
+- **Monitoring & Analytics Tools**  
+  AI-assisted monitoring of cloud-native applications, leveraging automation and dashboards to streamline operations.  
 
 ---
 
