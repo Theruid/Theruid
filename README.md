@@ -7,7 +7,7 @@ I'm an **AI Developer & Full-Stack Engineer** passionate about using artificial 
 
 ## 🚀 About Me
 
-- 💼 **Experience:** Support Engineer & AI Developer at [SystemGroup Co.](https://www.systemgroup.net/) — the Middle East’s leading software company.  
+- 💼 **Experience:** Support Engineer [SystemGroup Co.](https://www.systemgroup.net/)
   I design and implement cloud-native tools, AI-driven dashboards, and automation systems that serve thousands of users.  
 - 🤖 **Focus:** AI-assisted coding, machine learning, and building full-stack applications that merge automation and intelligence.  
 - 🌱 **Currently Exploring:**  
