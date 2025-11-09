@@ -32,8 +32,11 @@ I'm an **AI Developer & Full-Stack Engineer** passionate about using artificial 
 ## 💼 Featured AI & Automation Projects
 
 - **AI Chatbot Dashboard**  
-  Full-featured dashboard for managing and analyzing customer chats, integrating vector databases and semantic search.  
-
+  Full-featured dashboard for managing and analyzing customer chats, integrating vector databases and semantic search.
+    
+- **AI Chatbot Interface (Frontend)**  
+  Production-ready chatbot UI serving thousands of users, designed for seamless interaction and real-time AI responses.
+  
 - **n8n AI Automation Workflows**  
   Workflows for automating FAQ optimization, data enrichment, and text refinement using AI models.  
 
