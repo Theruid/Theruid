@@ -35,9 +35,6 @@ I'm an **Full-Stack Engineer** passionate about using artificial intelligence to
     
 - **AI Chatbot Interface (Frontend)** **(Private Repo) | Deployed at Club.sepidarsystem.com**  
   Production-ready chatbot UI serving thousands of users, designed for seamless interaction and real-time AI responses.
-  
-- **n8n AI Automation Workflows** **(Public Repo)**  
-  Workflows for automating FAQ optimization, data enrichment, and text refinement using AI models.  
 
 - **RAG-based Knowledge Systems** **(Public Repo)**  
   Retrieval-augmented generation pipelines built for text understanding and AI-driven insights.  
