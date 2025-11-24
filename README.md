@@ -78,16 +78,6 @@ Python-based application that fetches support agent voices from UCCX, processes 
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Theruid&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Theruid&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Theruid&theme=dark&hide_border=true&layout=compact)
-
----
-
 ## 🎯 My Goals
 
 - 🔍 Expand expertise in **AI-powered software development** and automation frameworks
