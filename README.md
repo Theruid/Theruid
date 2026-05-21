@@ -61,19 +61,19 @@
 
 ## 💼 Featured Projects
 
-### 🤖 AI Chatbot Dashboard *(Public)*
+### 🤖 AI Chatbot Dashboard 
 Full-featured dashboard for managing and analyzing customer chats, integrating vector databases and semantic search capabilities.
 
-### 🌐 AI Chatbot Interface — Frontend *(Private | Production)*
+### 🌐 AI Chatbot Interface — Frontend 
 Production-ready chatbot UI serving thousands of users, deployed at **Club.sepidarsystem.com**. Designed for seamless interaction and real-time AI responses.
 
-### 📚 RAG-based Knowledge Systems *(Public)*
+### 📚 RAG-based Knowledge Systems 
 Retrieval-augmented generation pipelines built for advanced text understanding and AI-driven insights extraction.
 
-### 📊 Monitoring & Analytics Tools *(Public)*
+### 📊 Monitoring & Analytics Tools 
 AI-assisted monitoring of cloud-native applications, leveraging automation and dashboards to streamline DevOps operations.
 
-### 🎙️ QC Voices of Support with AI *(Private)*
+### 🎙️ QC Voices of Support with AI 
 Python-based application that fetches support agent voices from UCCX, processes them with a local AI model using custom prompts, performs quality control analysis on recordings, and presents results in a dedicated dashboard for actionable insights.
 
 ---
