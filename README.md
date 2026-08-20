@@ -58,7 +58,7 @@ I operate at the intersection of **AI Product Management and technical execution
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[ChatGepeeTea (OmniAgent)](https://github.com/Theruid/ChatGepeeTea)** | Enterprise Agentic AI Platform with live tool calling (Web Search, Python sandbox, Terminal execution), transparent reasoning UI, JWT SaaS multi-tenancy, and tier quotas. | `FastAPI`, `Next.js 14`, `Tailwind CSS`, `SQLite`, `AsyncIO` |
+| **[OmniAgent](https://github.com/Theruid/OmniAgent)** | Enterprise Agentic AI Platform with live tool calling (Web Search, Python sandbox, Terminal execution), transparent reasoning UI, JWT SaaS multi-tenancy, and tier quotas. | `FastAPI`, `Next.js 14`, `Tailwind CSS`, `SQLite`, `AsyncIO` |
 | **[WebScraperQA](https://github.com/Theruid/WebScraperQA)** | Automated web scraper and semantic QA pipeline converting web data into vector embeddings for insight extraction. | `Python`, `Vector DB`, `Embeddings`, `HTML` |
 | **[MonitoringApplication](https://github.com/Theruid/MonitoringApplication)** | High-throughput URL monitoring application tracking uptime, metrics, and incident alerts. | `Go`, `Dashboards`, `Alerting` |
 | **AI Voice Quality Ingest** | Enterprise UCCX audio ingest pipeline utilizing local models for automated support voice quality analytics. | `Python`, `Audio Processing`, `Local AI`, `MLOps` |
