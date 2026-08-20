@@ -19,20 +19,46 @@ I specialize in bridging modern web technologies with autonomous AI systems, mac
 
 ---
 
-### 🛠️ Tech Stack & Capabilities
+## 💻 Tech Stack
 
-#### **Artificial Intelligence & Agentic Systems**
-`Autonomous Agents (ReAct)` • `RAG & Vector Search` • `Function Calling & Tool Orchestration` • `LM Studio / Ollama / Local LLMs` • `OpenAI API` • `Anthropic Claude API` • `PyTorch` • `TensorFlow` • `scikit-learn` • `n8n AI Workflows`
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=323330)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-E34C26?style=flat-square&logo=html5&logoColor=white)
 
-#### **Backend & APIs**
-`Python (FastAPI, Flask)` • `C# (.NET)` • `Node.js` • `Go` • `SQLModel / SQLAlchemy` • `JWT & OAuth2 Security` • `AsyncIO & Server-Sent Events (SSE)` • `REST & WebSockets`
+**AI & Machine Learning**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-#### **Frontend & UI/UX**
-`Next.js 14+ (App Router)` • `React.js` • `TypeScript` • `Tailwind CSS` • `State Management` • `Markdown & Syntax Highlighting`
+**Frameworks & Platforms**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
 
-#### **Databases & Cloud / DevOps**
-`PostgreSQL` • `SQLite` • `MongoDB` • `Supabase` • `Firebase` • `Docker` • `Kubernetes` • `AWS` • `Google Cloud` • `Git & GitHub Actions` • `Grafana Observability`
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
 
+**Databases & Tools**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
+
+**Automation & Monitoring**  
+![n8n](https://img.shields.io/badge/n8n-EB6F10?style=flat-square&logo=n8n&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ---
 
 ### 🌟 Featured Projects
